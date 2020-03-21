@@ -1,2 +1,2 @@
-# VBAHomework
-Visual Basic Homework
+# Python challenge
+python homework
